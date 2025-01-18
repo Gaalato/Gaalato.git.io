@@ -1,0 +1,52 @@
+.cagar {
+	font-style: italic;
+}
+.IRADOS {
+	padding: 20px;
+	max-width: 500px;
+	background-color: azure;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	font-size: 40px;
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+h1, h2, p {
+	text-align: center;
+}
+h1, h2 {
+	font-family: impact, sarif;
+}
+body {
+	background-image: url(https://cdn.steamstatic.com/steamcommunity/public/images/items/960090/7175088342967ece9491188906dca51b9e59cdf4.jpg);
+}
+.item p {
+	font-size: 18px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	display: inline-block;
+}
+.macaco {
+	width: 75%;
+	text-align: left;
+}
+.preço {
+	width: 25%;
+	text-align: right;
+}
+hr {
+	height: 2px;
+	border-color: blue;
+	background-color: blue;
+}
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.bottom-line {
+	margin-top: 25px;
+}
